@@ -1,0 +1,1 @@
+Roda esse comando que a magia acontece -- npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
